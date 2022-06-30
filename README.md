@@ -1,2 +1,2 @@
-# comming_soon
+# coming_soon
 Coming Soon Landing Page
